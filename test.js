@@ -2,7 +2,7 @@
  service: 'gmail',
  auth: {
         user: 'sidhaldar98@gmail.com',
-        pass: 'h@ld@rsid98'
+        pass: '**********'
     }
 });
 
